@@ -1,4 +1,4 @@
-# CS-5354-DSA
+# CS-5343-DSA
 
 # Question 1
 -> Insert elements in the array in the main funtion. Every element in array is created a node using a for loop by the insertnode function.
